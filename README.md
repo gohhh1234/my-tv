@@ -3,7 +3,7 @@
 电视直播软件，安装即可使用
 
 ## 使用
-
+[![build](https://github.com/gohhh1234/my-tv/actions/workflows/build.yml/badge.svg)](https://github.com/gohhh1234/my-tv/actions/workflows/build.yml)
 下载安装:
 [github](https://github.com/lizongying/my-tv/releases/)
 [gitee](https://gitee.com/lizongying/my-tv/releases/)

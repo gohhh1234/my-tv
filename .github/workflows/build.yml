@@ -1,9 +1,10 @@
 name: build
 
 on:
-  push:
-    tags:
-      - 'v*'
+    schedule:
+      - cron: 0 0/12 * * * 
+    workflow_dispatch:
+
 
 permissions:
   contents: write
